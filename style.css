@@ -1,0 +1,64 @@
+* {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+	text-align: center;
+	font-color: gray;
+}
+
+.lav {
+	background-color: lavender;
+	padding: 20px;
+}
+body {
+	background-color: gray;
+	margin: 10px 150px;
+}
+
+header {
+	background-color: lavender;
+	padding: 20px;
+	margin-bottom: 10px;
+}
+
+nav {
+	background-color: lavender;
+	padding: 20px;
+	margin-bottom: 15px;
+}
+
+section {
+	float: left;
+	width: 50%;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	height: 200px;
+	position: relative;
+}
+
+aside {
+	float: right;
+	width: 40%;
+	height: 200px;
+}
+
+article {
+	background-color: gray;
+	height: 150px;
+	position: absolute;
+	width: 93%;
+	bottom: 20px;
+	color: lavender;
+}
+
+.h1 {
+	background-color: lavender;
+	margin: 10px 30px;
+	height: 45px;
+	color: gray;
+
+}
+
+footer {
+	clear: both;
+	height: 50px;
+}
