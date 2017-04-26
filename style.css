@@ -2,7 +2,7 @@
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	font-size: 18px;
 	text-align: center;
-	font-color: gray;
+	font-color: grey;
 }
 
 .lav {
@@ -18,12 +18,14 @@ header {
 	background-color: lavender;
 	padding: 20px;
 	margin-bottom: 10px;
+	color: gray;
 }
 
 nav {
 	background-color: lavender;
 	padding: 20px;
 	margin-bottom: 15px;
+	color: gray;
 }
 
 section {
@@ -33,12 +35,14 @@ section {
 	margin-bottom: 20px;
 	height: 200px;
 	position: relative;
+	color: gray;
 }
 
 aside {
 	float: right;
 	width: 40%;
 	height: 200px;
+	color: gray;
 }
 
 article {
@@ -55,10 +59,14 @@ article {
 	margin: 10px 30px;
 	height: 45px;
 	color: gray;
+}
 
+#h2 {
+	font-weight: bold;
 }
 
 footer {
 	clear: both;
 	height: 50px;
+	color: gray;
 }
